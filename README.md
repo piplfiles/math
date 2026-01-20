@@ -29,22 +29,34 @@
 **Calculus AB/BC Notes:**  
 Unit 1 - Prerequisite Topics:
 [Summer Review Packet Problems](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems_Solutions.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_1/Calc_Prerequisite_Practice_Test.pdf)  
 Unit 2 - Limits:
 [Notes Chapter 2](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2_Solutions.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_2/Calc_Chapter_2_Practice_Test.pdf)  
 Unit 3 - Differentiation and the Derivative:
 [Notes Chapter 3](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3_Solutions.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_3/Calc_Chapter_3_Practice_Test.pdf)  
 Unit 4 - Applications of the Derivative:
 [Notes Chapter 4](https://files.piplup7575.co/math/notes/unit_4/Notes_Chapter_4.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_4/Notes_Chapter_4_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_4/Notes_Chapter_4_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_4/Calc_Chapter_4_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_4/Calc_Chapter_4_Practice_Test.pdf)  
 Unit 5 - Integration:
 [Notes Chapter 5](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5_Solutions.pdf),
+[Practice Quiz 5a](https://files.piplup7575.co/math/notes/unit_5/Calc_Chapter_5a_Practice_Quiz.pdf),
+[Practice Quiz 5b](https://files.piplup7575.co/math/notes/unit_5/Calc_Chapter_5b_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_5/Calc_Chapter_5_Practice_Test.pdf)  
 Unit 6 - Differential Equations:
 [Notes Chapter 6](https://files.piplup7575.co/math/notes/unit_6/Notes_Chapter_6.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_6/Notes_Chapter_6_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_6/Notes_Chapter_6_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_6/Calc_Chapter_6_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_6/Calc_Chapter_6_Practice_Test.pdf)  
 Unit 7 - Applications of Integration:
 [Notes Chapter 7](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7.pdf),
-[Solutions](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7_Solutions.pdf)  
+[Solutions](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_7/Calc_Chapter_7_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_7/Calc_Chapter_7_Practice_Test.pdf)  
