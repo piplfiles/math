@@ -3,7 +3,7 @@
 [The Project Gutenberg EBook of Calculus Made Easy, by Silvanus Thompson](calcmadeeasy.pdf)  
 [Isabelle's Calc 3 Full Notes 23'-24'](MATH241_Calculus_III_Notes.pdf)  
   
-Calculus: Early Transcendental Functions 5th Edition - Ron Larson  
+**Calculus: Early Transcendental Functions 5th Edition - Ron Larson**  
 [Chapter 1](https://files.piplup7575.co/math/calc/Ch_1_-_Calculus_Digital_Textbook.pdf),
 [Chapter 2](https://files.piplup7575.co/math/calc/Ch_2_-_Calculus_Digital_Textbook.pdf),
 [Chapter 3](https://files.piplup7575.co/math/calc/Ch_3_-_Calculus_Digital_Textbook.pdf),
@@ -15,7 +15,7 @@ Calculus: Early Transcendental Functions 5th Edition - Ron Larson
 [Chapter 9](https://files.piplup7575.co/math/calc/Ch_9_-_Calculus_Digital_Textbook.pdf),
 [Chapter 10](https://files.piplup7575.co/math/calc/Ch_10_-_Calculus_Digital_Textbook.pdf)  
   
-Calculus Problem Sets: (Weekly Homework):  
+**Calculus AB/BC Problem Sets: (Weekly Homework):**  
 [PS 1](https://files.piplup7575.co/math/ps/Problem_Set_01.pdf),
 [PS 2](https://files.piplup7575.co/math/ps/Problem_Set_02.pdf),
 [PS 3](https://files.piplup7575.co/math/ps/Problem_Set_03.pdf),
@@ -23,4 +23,13 @@ Calculus Problem Sets: (Weekly Homework):
 [PS 5](https://files.piplup7575.co/math/ps/Problem_Set_05.pdf),
 [PS 6](https://files.piplup7575.co/math/ps/Problem_Set_06.pdf),
 [PS 7](https://files.piplup7575.co/math/ps/Problem_Set_07.pdf),
-[PS 8 (break)](https://files.piplup7575.co/math/ps/Problem_Set_08.pdf)
+[PS 8 (break)](https://files.piplup7575.co/math/ps/Problem_Set_08.pdf),
+[PS 9](https://files.piplup7575.co/math/ps/Problem_Set_09.pdf)  
+  
+**Calculus AB/BC Notes:**  
+Unit 1 - Prerequisite Topics  
+[Summer Review Packet Problems](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems.pdf),  
+[Summer Review Packet Problems Solutions](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems_Solutions.pdf)  
+Unit 2 - Limits  
+[Notes Chapter 2](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2.pdf),  
+[Notes Chapter 2 Solutions](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2_Solutions.pdf)  
