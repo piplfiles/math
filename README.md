@@ -36,3 +36,9 @@ Unit 2 - Limits:
 Unit 3 - Differentiation and the Derivative:
 [Notes Chapter 3](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3.pdf),
 [Solutions](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3_Solutions.pdf)  
+Unit 4 - Applications of the Derivative:
+[Notes Chapter 4](https://files.piplup7575.co/math/notes/unit_4/Notes_Chapter_4.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_4/Notes_Chapter_4_Solutions.pdf)  
+Unit 5 - Integration:
+[Notes Chapter 5](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5_Solutions.pdf)  
