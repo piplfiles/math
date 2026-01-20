@@ -27,9 +27,12 @@
 [PS 9](https://files.piplup7575.co/math/ps/Problem_Set_09.pdf)  
   
 **Calculus AB/BC Notes:**  
-Unit 1 - Prerequisite Topics  
-[Summer Review Packet Problems](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems.pdf),  
-[Summer Review Packet Problems Solutions](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems_Solutions.pdf)  
-Unit 2 - Limits  
-[Notes Chapter 2](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2.pdf),  
-[Notes Chapter 2 Solutions](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2_Solutions.pdf)  
+Unit 1 - Prerequisite Topics:
+[Summer Review Packet Problems](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_1/Summer_Review_Packet_Problems_Solutions.pdf)  
+Unit 2 - Limits:
+[Notes Chapter 2](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_2/Notes_Chapter_2_Solutions.pdf)  
+Unit 3 - Differentiation and the Derivative:
+[Notes Chapter 3](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_3/Notes_Chapter_3_Solutions.pdf)  
