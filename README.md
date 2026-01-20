@@ -42,3 +42,9 @@ Unit 4 - Applications of the Derivative:
 Unit 5 - Integration:
 [Notes Chapter 5](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5.pdf),
 [Solutions](https://files.piplup7575.co/math/notes/unit_5/Notes_Chapter_5_Solutions.pdf)  
+Unit 6 - Differential Equations:
+[Notes Chapter 6](https://files.piplup7575.co/math/notes/unit_6/Notes_Chapter_6.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_6/Notes_Chapter_6_Solutions.pdf)  
+Unit 7 - Applications of Integration:
+[Notes Chapter 7](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7_Solutions.pdf)  
