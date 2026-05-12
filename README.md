@@ -26,7 +26,14 @@ honestly just a bunch of resources for those taking ap calc ab/bc, taken from my
 [PS 7](https://files.piplup7575.co/math/ps/Problem_Set_07.pdf),
 [PS 8 (break)](https://files.piplup7575.co/math/ps/Problem_Set_08.pdf),
 [PS 9](https://files.piplup7575.co/math/ps/Problem_Set_09.pdf)  
-[PS 10](https://files.piplup7575.co/math/ps/Problem_Set_10.pdf)  
+[PS 10](https://files.piplup7575.co/math/ps/Problem_Set_10.pdf),
+[PS 11](https://files.piplup7575.co/math/ps/Problem_Set_11.pdf),
+[PS 12](https://files.piplup7575.co/math/ps/Problem_Set_12.pdf),
+[PS 13](https://files.piplup7575.co/math/ps/Problem_Set_13.pdf),
+[PS 14](https://files.piplup7575.co/math/ps/Problem_Set_14.pdf),
+[PS 15](https://files.piplup7575.co/math/ps/Problem_Set_15.pdf),
+[PS 16](https://files.piplup7575.co/math/ps/Problem_Set_16.pdf),
+[PS 18](https://files.piplup7575.co/math/ps/Problem_Set_18.pdf)
   
 **Calculus AB/BC Notes**  
 Unit 1 - Prerequisite Topics:
@@ -62,3 +69,8 @@ Unit 7 - Applications of Integration:
 [Solutions](https://files.piplup7575.co/math/notes/unit_7/Notes_Chapter_7_Solutions.pdf),
 [Practice Quiz](https://files.piplup7575.co/math/notes/unit_7/Calc_Chapter_7_Practice_Quiz.pdf),
 [Practice Test](https://files.piplup7575.co/math/notes/unit_7/Calc_Chapter_7_Practice_Test.pdf)  
+Unit 8 - Advanced Integration Techniques:
+[Notes Chapter 8](https://files.piplup7575.co/math/notes/unit_8/Notes_Chapter_8.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_8/Notes_Chapter_8_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_8/Calc_Chapter_8_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_8/Calc_Chapter_8_Practice_Test.pdf)  
