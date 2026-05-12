@@ -79,3 +79,13 @@ Unit 10 - Parametric and Polar Equations:
 [Solutions](https://files.piplup7575.co/math/notes/unit_10/Notes_Chapter_10_Solutions.pdf),
 [Practice Quiz](https://files.piplup7575.co/math/notes/unit_10/Calc_Chapter_10_Practice_Quiz.pdf),
 [Practice Test](https://files.piplup7575.co/math/notes/unit_10/Calc_Chapter_10_Practice_Test.pdf)  
+Unit 9a - Series:
+[Notes Chapter 9a](https://files.piplup7575.co/math/notes/unit_9a/Notes_Chapter_9a.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_9a/Notes_Chapter_9a_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_9a/Calc_Chapter_9a_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_9a/Calc_Chapter_9a_Practice_Test.pdf)  
+Unit 9b - Taylor Polynomials and Power Series:
+[Notes Chapter 9b](https://files.piplup7575.co/math/notes/unit_9b/Notes_Chapter_9b.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_9b/Notes_Chapter_9b_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_9b/Calc_Chapter_9b_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_9b/Calc_Chapter_9b_Practice_Test.pdf)  
