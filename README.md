@@ -74,3 +74,8 @@ Unit 8 - Advanced Integration Techniques:
 [Solutions](https://files.piplup7575.co/math/notes/unit_8/Notes_Chapter_8_Solutions.pdf),
 [Practice Quiz](https://files.piplup7575.co/math/notes/unit_8/Calc_Chapter_8_Practice_Quiz.pdf),
 [Practice Test](https://files.piplup7575.co/math/notes/unit_8/Calc_Chapter_8_Practice_Test.pdf)  
+Unit 10 - Parametric and Polar Equations:
+[Notes Chapter 10](https://files.piplup7575.co/math/notes/unit_10/Notes_Chapter_10.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/unit_10/Notes_Chapter_10_Solutions.pdf),
+[Practice Quiz](https://files.piplup7575.co/math/notes/unit_10/Calc_Chapter_10_Practice_Quiz.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/unit_10/Calc_Chapter_10_Practice_Test.pdf)  
