@@ -89,3 +89,9 @@ Unit 9b - Taylor Polynomials and Power Series:
 [Solutions](https://files.piplup7575.co/math/notes/unit_9b/Notes_Chapter_9b_Solutions.pdf),
 [Practice Quiz](https://files.piplup7575.co/math/notes/unit_9b/Calc_Chapter_9b_Practice_Quiz.pdf),
 [Practice Test](https://files.piplup7575.co/math/notes/unit_9b/Calc_Chapter_9b_Practice_Test.pdf)  
+  
+Linear Algebra  
+[Notes Calc Linear Algebra](https://files.piplup7575.co/math/notes/calc_linalg/Notes_Calc_LinAlg.pdf),
+[Solutions](https://files.piplup7575.co/math/notes/calc_linalg/Notes_Calc_LinAlg_Solutions.pdf),
+[Homework](https://files.piplup7575.co/math/notes/calc_linalg/Calc_LinAlg_Homework.pdf),
+[Practice Test](https://files.piplup7575.co/math/notes/calc_linalg/Calc_LinAlg_Practice_Test.pdf)  
